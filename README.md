@@ -1,4 +1,4 @@
-# Hi there, am Prince Krampah
+# Hi there 🐒
 
 ![Matlafu GitHub stats](https://github-readme-stats.vercel.app/api?username=matlafu&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matlafu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
