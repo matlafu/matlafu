@@ -1,7 +1,7 @@
 # Hi there, am Prince Krampah
 
 ![Matlafu GitHub stats](https://github-readme-stats.vercel.app/api?username=matlafu&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pmatlafulayout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matlafu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Languages I use
