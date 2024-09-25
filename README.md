@@ -1,7 +1,7 @@
 # Hi there 🐒
 
 - 🔭 I’m currently working on building cool stuff for WattFox GmbH
-- 🌱 I’m currently learning -> Clojure, Norsk
+- 🌱 I’m currently learning -> Docker, Kubernetes, Helm, Clojure, Norsk
 - ⚡ Fun fact -> I named one of my cats after a Python package lol
 
 <!--
