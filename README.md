@@ -1,6 +1,6 @@
 # Hi there 🐒
 
-- 🔭 I’m currently working on building cool stuff for WattFox GmbH
+- 🔭 I’m currently working on building cool stuff for WattFox GmbH so you won´t find much here... 
 - 🌱 I’m currently learning -> Kubernetes, Helm, Hexagonal Arch, Norsk
 - ⚡ Fun fact -> I named one of my cats after a Python package lol
 
